@@ -10,7 +10,7 @@ fun main() {
     println("I was created in 2020.")
     println("Please, remind me your name.")
 
-    // reading a name
+    val yourName: String = scanner.nextLine()
 
-    println("What a great name you have, {yourName}!")
+    println("What a great name you have, $yourName!")
 }
