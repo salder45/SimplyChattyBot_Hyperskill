@@ -14,6 +14,9 @@
       <module name="Simple_Chatty_Bot.Topics-Comments-The_forgotten_comments.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Theory.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Unused_comments.main" target="8" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Not_in_range.main" target="8" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Theory.main" target="8" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Within_both_ranges.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Length_check.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Working_with_strings-N-th_symbol.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Name_Card.main" target="8" />
