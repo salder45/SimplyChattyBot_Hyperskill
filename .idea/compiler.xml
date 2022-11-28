@@ -14,6 +14,9 @@
       <module name="Simple_Chatty_Bot.Topics-Comments-The_forgotten_comments.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Theory.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-Comments-Unused_comments.main" target="8" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Get_last_digit.main" target="8" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Right_equation.main" target="8" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Theory.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_maximum_pairwise_product.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_minimum_value_of_N_numbers.main" target="8" />
       <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="8" />

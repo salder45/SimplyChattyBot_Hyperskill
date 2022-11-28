@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ChattyBotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-25T03:12:17" hostname="leviatan" time="0.07">
+<testsuite name="ChattyBotTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-28T01:55:30" hostname="leviatan" time="0.071">
   <properties/>
-  <testcase name="start" classname="ChattyBotTest" time="0.07"/>
+  <testcase name="start" classname="ChattyBotTest" time="0.071"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Hello! My name is Aid.
@@ -28,7 +28,20 @@ Now I will prove to you that I can count to any number you want.
 8!
 9!
 10!
-Completed, have a nice day!
+Let's test your programming knowledge.
+How is called the base-2 numeral system?
+1. Hexadecimal
+2. Decimal
+3. Binary
+4. Bytecode
+> 1
+Please, try again.
+> 2
+Please, try again.
+> 3
+Please, try again.
+> 4
+Congratulations, have a nice day!
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
